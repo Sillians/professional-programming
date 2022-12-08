@@ -110,6 +110,7 @@ The goal of this page is to make you a more proficient developer. You'll find on
 
 This page is not meant to be comprehensive. I am trying to keep it light and not too overwhelming. The selection of articles is opinionated.
 
+
 Items:
 
 - 🧰 : list of resources
